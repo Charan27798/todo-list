@@ -45,9 +45,10 @@ const HandleEditTodo = (index)=>
                   <h1> Todo App...</h1>
                   <h1> Hi....vamshi</h1>
                   <h1>Sai Charan</h1>
+                  <h2>sritja</h2>
                   <input
                         type='text'
-                        placeholder='Enter Your Todo here...'
+                        placeholder='EnYour Todo here...'
                         value={InputValue}
                         onChange={(e)=>SetInputValue(e.target.value)}
                   
