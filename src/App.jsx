@@ -45,7 +45,7 @@ const HandleEditTodo = (index)=>
                   <h1> Todo App...</h1>
                   <h1> Hi....vamshi</h1>
                   <h1>Sai Charan</h1>
-                  <h2>sritja</h2>
+                  <h2>sritdsdsdja</h2>
                   <input
                         type='text'
                         placeholder='EnYour Todo here...'
